@@ -66,6 +66,7 @@ The dataset contains the following 5 features:
 1. **Clone the repo**  
 
    git clone https://github.com/safikasi/TF-2.0-Keras-Project.git
+   
    cd TF-2.0-Keras-Project
 
 ---
