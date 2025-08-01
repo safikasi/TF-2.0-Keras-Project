@@ -31,6 +31,14 @@ The dataset contains the following 5 features:
 
 ---
 
+## Visual representations
+<img width="563" height="143" alt="C-R" src="https://github.com/user-attachments/assets/3c9b1c26-42ef-4603-982e-5362d22ed6ed" />
+<img width="966" height="258" alt="Estimator" src="https://github.com/user-attachments/assets/65e517c3-41d1-4eab-85a2-d3b2eae28f20" />
+<img width="792" height="780" alt="PairPlot" src="https://github.com/user-attachments/assets/be8567bb-43f7-499f-80f6-9a2da3802592" />
+<img width="465" height="327" alt="CountPlot" src="https://github.com/user-attachments/assets/c505e55d-621d-493a-851e-c0a8d6632879" />
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python
